@@ -8,6 +8,7 @@
     font-family: 'poppins';
 }
 .section1{
+    width:auto;
     height: 95vh;
     background: #ECD015;
     border-radius: 0px 0px 0px 50px;
